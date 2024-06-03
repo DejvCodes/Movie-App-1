@@ -1,5 +1,5 @@
 ## Movie App 1 
-• practicing useState, props, map, filter and destructuring ✅
+• Practicing useState, props, map, filter and destructuring ✅
 
 ## Screenshots 📱
 <img src="src/images/movie-app-1.jpg" width="350">
