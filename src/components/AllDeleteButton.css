@@ -1,0 +1,12 @@
+.all-delete-btn {
+  color: white;
+  background: #e50914;
+  font-size: 18px;
+  padding: 5px 15px;
+  cursor: pointer;
+  border: none;
+  transition: transform 0.25s linear;
+}
+.all-delete-btn:hover {
+  transform: scale(1.05);
+}
